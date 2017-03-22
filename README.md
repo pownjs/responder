@@ -25,7 +25,7 @@ In order to redirect everything the command looks like this:
 $ pown responder -r *:
 ```
 
-This is also the default behaviour when executing:
+The default behaviour is non-invasive and simply monitoring.
 
 ```sh
 $ pown responder
