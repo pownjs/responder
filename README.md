@@ -2,7 +2,6 @@
 
 > LLMNR responder.
 
-
 ## How To Use
 
 The Pown Responder will respond on LLMNR multicast queries. By default the tool will respond to all queries with your external IP address. However, you can achieve more interesting results with the help of the configuration options. 
@@ -37,6 +36,7 @@ Pown Responder is still in development although the LLMNR implementation is 100%
 
 * [ ] mDNS support (can be done with small modifications of the existing code)
 * [ ] NBTNS support
+* [ ] DNS server support
 * [ ] Interactive support (perhaps a generic pown-cli command required)
 
 ## Quickstart
